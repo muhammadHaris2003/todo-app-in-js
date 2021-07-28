@@ -1,0 +1,72 @@
+body{
+  background-color: rgb(18, 182, 223);
+}
+
+.heading{
+  text-align: center;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: yellow;
+  color: red;
+}
+
+.inputField{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+
+input{
+  font-size: large;
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  color: black;
+  background-color: whitesmoke;
+}
+
+.btn{
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  border: 2px solid black;
+  color: red;
+  background-color: yellow;
+  font-size: large;
+  cursor: pointer;
+}
+
+button{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: red;
+  background-color: yellow;
+  font-size: large;
+  cursor: pointer;
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+  
+}
+
+.container{
+  background-color: aqua;
+  width: 50%;
+  margin-left: 25%;
+  justify-content: center; 
+  align-items: center;
+  text-align: center; 
+  margin-top: 5%;
+}
+
+ul{
+  text-align: center;
+  font-size: larger;
+  list-style: none;
+
+}
+
